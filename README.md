@@ -1,6 +1,6 @@
 # currency
 Check and download currency exchange rates from the beginning of the period to the end of the period.
-
+[Demo](https://rokasandreikenas.github.io/currency/)
 
 ## Features
 
